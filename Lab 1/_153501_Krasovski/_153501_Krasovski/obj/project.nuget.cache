@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fcdr8lu/KiXxupz9Gz6IFMVY+Ch6M5jmHjulQbK8FBJhF8F2b3uYh1nFUVgCDiq/AAMejQYH7RdwLeKW5Uueqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valentin\\Documents\\Labs Proga 2 sem\\Lab 1\\_153501_Krasovski\\_153501_Krasovski\\_153501_Krasovski.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valentin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Valentin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
