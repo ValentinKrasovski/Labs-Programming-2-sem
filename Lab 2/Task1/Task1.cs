@@ -9,18 +9,15 @@ namespace Task1
         {
             if (b > 99 || b<10)
             {   
-
                 return 3;
             }
 
             if ((b / 10 + b % 10) % 3 == 0)
-            {
-               
+            {               
                 return 4;
             }
             else
-            {
-                
+            {                
                 return 5;
             }
            
